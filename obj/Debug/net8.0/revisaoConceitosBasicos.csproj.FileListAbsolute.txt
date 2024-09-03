@@ -1,0 +1,14 @@
+C:\Users\mikha\Desktop\EstudoAnalista\revisaoConceitosBasicos\obj\Debug\net8.0\revisaoConceitosBasicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikha\Desktop\EstudoAnalista\revisaoConceitosBasicos\obj\Debug\net8.0\revisaoConceitosBasicos.AssemblyInfoInputs.cache
+C:\Users\mikha\Desktop\EstudoAnalista\revisaoConceitosBasicos\obj\Debug\net8.0\revisaoConceitosBasicos.AssemblyInfo.cs
+C:\Users\mikha\Desktop\EstudoAnalista\revisaoConceitosBasicos\obj\Debug\net8.0\revisaoConceitosBasicos.csproj.CoreCompileInputs.cache
+C:\Users\mikha\Desktop\EstudoAnalista\revisaoConceitosBasicos\bin\Debug\net8.0\revisaoConceitosBasicos.exe
+C:\Users\mikha\Desktop\EstudoAnalista\revisaoConceitosBasicos\bin\Debug\net8.0\revisaoConceitosBasicos.deps.json
+C:\Users\mikha\Desktop\EstudoAnalista\revisaoConceitosBasicos\bin\Debug\net8.0\revisaoConceitosBasicos.runtimeconfig.json
+C:\Users\mikha\Desktop\EstudoAnalista\revisaoConceitosBasicos\bin\Debug\net8.0\revisaoConceitosBasicos.dll
+C:\Users\mikha\Desktop\EstudoAnalista\revisaoConceitosBasicos\bin\Debug\net8.0\revisaoConceitosBasicos.pdb
+C:\Users\mikha\Desktop\EstudoAnalista\revisaoConceitosBasicos\obj\Debug\net8.0\revisaoConceitosBasicos.dll
+C:\Users\mikha\Desktop\EstudoAnalista\revisaoConceitosBasicos\obj\Debug\net8.0\refint\revisaoConceitosBasicos.dll
+C:\Users\mikha\Desktop\EstudoAnalista\revisaoConceitosBasicos\obj\Debug\net8.0\revisaoConceitosBasicos.pdb
+C:\Users\mikha\Desktop\EstudoAnalista\revisaoConceitosBasicos\obj\Debug\net8.0\revisaoConceitosBasicos.genruntimeconfig.cache
+C:\Users\mikha\Desktop\EstudoAnalista\revisaoConceitosBasicos\obj\Debug\net8.0\ref\revisaoConceitosBasicos.dll
